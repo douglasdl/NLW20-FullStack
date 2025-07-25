@@ -69,3 +69,34 @@ From that, the HTML is visually impacted.
 - declaration
 - selector
 - property and value
+
+## JS
+- Programming language
+- Browsers
+- Input -> Process -> Output
+- Variables
+- Function
+  - Code grouping and reuse
+  - Logical sequence
+  - Output
+- Gemini (AI): wait for a response
+- Interact with my browser
+- Data structure
+- Decision structure
+- Algorithm: logical sequence of steps, in an orderly manner, in order to reach some conclusion (limited)
+- Logic (Computational thinking)
+  - Abstraction
+  - Decomposition
+  - Algorithm
+  - Pattern recognition
+- Data types
+  - Number
+  - String (" ", ' ', ` `)
+  - Boolean: true | false
+  - Objects
+  - ...
+
+## DOM
+- Document
+- Object
+- Model
